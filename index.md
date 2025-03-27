@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+title: 試行錯誤
 ---
 
+```py
+name = "Sylvenill"
+print(name)
+```
